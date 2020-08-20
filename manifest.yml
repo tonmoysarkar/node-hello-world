@@ -2,3 +2,4 @@ applications:
 - name: node-hello-world-tony
   memory: 128M
   buildpack: sdk-for-nodejs
+  random-route: true
